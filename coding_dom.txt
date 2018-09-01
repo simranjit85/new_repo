@@ -1,1 +1,1 @@
-This is for learning GIT
+This is for learning GIT.
